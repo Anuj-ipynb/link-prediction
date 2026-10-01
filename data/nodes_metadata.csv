@@ -1,0 +1,165 @@
+node_id,country_name,continent
+AFG,Afghanistan,Asia
+IND,India,Asia
+KAZ,Kazakhstan,Asia
+AGO,Angola,Africa
+BRA,Brazil,South America
+DEU,Germany,Europe
+EST,Estonia,Europe
+FRA,France,Europe
+LTU,Lithuania,Europe
+LVA,Latvia,Europe
+POL,Poland,Europe
+ALB,Albania,Europe
+HRV,Croatia,Europe
+ROU,Romania,Europe
+SRB,Serbia,Europe
+ARE,United Arab Emirates,Asia
+AUS,Australia,Oceania
+AUT,Austria,Europe
+BGR,Bulgaria,Europe
+CAN,Canada,North America
+GBR,United Kingdom,Europe
+IRN,Iran,Asia
+ISR,Israel,Asia
+LKA,Sri Lanka,Asia
+MDA,Rep. of Moldova,Europe
+OMN,Oman,Asia
+RUS,Russian Federation,Europe
+THA,Thailand,Asia
+UKR,Ukraine,Europe
+USA,USA,North America
+ARG,Argentina,South America
+BDI,Burundi,Other
+BFA,Burkina Faso,Africa
+BOL,Bolivia (Plurinational State of),South America
+CHL,Chile,South America
+CMR,Cameroon,Africa
+COL,Colombia,South America
+CUB,Cuba,North America
+ETH,Ethiopia,Africa
+IDN,Indonesia,Asia
+KEN,Kenya,Africa
+MAR,Morocco,Africa
+MEX,Mexico,North America
+MYS,Malaysia,Asia
+NGA,Nigeria,Africa
+PER,Peru,South America
+SEN,Senegal,Africa
+SWZ,Eswatini,Africa
+TUR,TÃ¼rkiye,Asia
+TZA,United Rep. of Tanzania,Africa
+UGA,Uganda,Africa
+URY,Uruguay,South America
+VNM,Viet Nam,Asia
+ZAF,South Africa,Africa
+ARM,Armenia,Asia
+GEO,Georgia,Asia
+BGD,Bangladesh,Asia
+BHR,Bahrain,Other
+CHN,China,Asia
+EGY,Egypt,Africa
+ESP,Spain,Europe
+FJI,Fiji,Oceania
+IRQ,Iraq,Asia
+ITA,Italy,Europe
+JOR,Jordan,Asia
+JPN,Japan,Asia
+KOR,Rep. of Korea,Asia
+KWT,Kuwait,Asia
+MMR,Myanmar,Asia
+MOZ,Mozambique,Africa
+MUS,Mauritius,Other
+NCL,New Caledonia,Oceania
+NZL,New Zealand,Oceania
+PAK,Pakistan,Asia
+PHL,Philippines,Asia
+PNG,Papua New Guinea,Oceania
+PYF,French Polynesia,Oceania
+QAT,Qatar,Asia
+RWA,Rwanda,Africa
+S19,"Other Asia, nes",Other
+SDN,Sudan,Africa
+SGP,Singapore,Asia
+SLB,Solomon Isds,Oceania
+YEM,Yemen,Asia
+BEL,Belgium,Europe
+BIH,Bosnia Herzegovina,Europe
+CHE,Switzerland,Europe
+CZE,Czechia,Europe
+GRC,Greece,Europe
+HUN,Hungary,Europe
+MKD,North Macedonia,Europe
+MLT,Malta,Europe
+NLD,Netherlands,Europe
+SVK,Slovakia,Europe
+SVN,Slovenia,Europe
+AZE,Azerbaijan,Asia
+LUX,Luxembourg,Europe
+BEN,Benin,Africa
+LBN,Lebanon,Asia
+CYP,Cyprus,Europe
+DZA,Algeria,Africa
+LBY,Libya,Africa
+PRT,Portugal,Europe
+TUN,Tunisia,Africa
+BHS,Bahamas,North America
+BLZ,Belize,Other
+CAF,Central African Rep.,Other
+ECU,Ecuador,South America
+PRY,Paraguay,South America
+SAU,Saudi Arabia,Asia
+VEN,Venezuela,South America
+BRB,Barbados,North America
+BTN,Bhutan,Other
+BWA,Botswana,Africa
+CIV,CÃ´te d'Ivoire,Africa
+CRI,Costa Rica,North America
+DOM,Dominican Rep.,North America
+GAB,Gabon,Africa
+GHA,Ghana,Africa
+GTM,Guatemala,North America
+GUY,Guyana,South America
+HTI,Haiti,North America
+JAM,Jamaica,North America
+LCA,Saint Lucia,Other
+NIC,Nicaragua,North America
+SLV,El Salvador,North America
+TGO,Togo,Africa
+ERI,Eritrea,Other
+COD,Dem. Rep. of the Congo,Africa
+COG,Congo,Africa
+CPV,Cabo Verde,Other
+DNK,Denmark,Europe
+GIN,Guinea,Africa
+GMB,Gambia,Africa
+ISL,Iceland,Europe
+MLI,Mali,Africa
+MRT,Mauritania,Africa
+NOR,Norway,Europe
+SUR,Suriname,South America
+SWE,Sweden,Europe
+DJI,Djibouti,Africa
+IRL,Ireland,Europe
+FIN,Finland,Europe
+MDG,Madagascar,Africa
+NAM,Namibia,Africa
+GRD,Grenada,Other
+HKG,"China, Hong Kong SAR",Asia
+HND,Honduras,North America
+NPL,Nepal,Asia
+SOM,Somalia,Africa
+KGZ,Kyrgyzstan,Asia
+TJK,Tajikistan,Asia
+TKM,Turkmenistan,Asia
+UZB,Uzbekistan,Asia
+KHM,Cambodia,Asia
+LBR,Liberia,Other
+LSO,Lesotho,Africa
+MNE,Montenegro,Europe
+PAN,Panama,North America
+ZWE,Zimbabwe,Africa
+SYR,Syria,Asia
+TTO,Trinidad and Tobago,North America
+VCT,Saint Vincent and the Grenadines,Other
+ZMB,Zambia,Africa

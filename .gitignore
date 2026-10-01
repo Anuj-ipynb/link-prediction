@@ -1,0 +1,28 @@
+# Raw BACI Large Data Files (>100MB, exceeds GitHub file size limit)
+BACI_*.csv
+*.csv.zip
+*.tar.gz
+
+# Python & Virtual Environment
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temp / Build Artifacts
+scratch/
+build/
+dist/
+*.egg-info/
